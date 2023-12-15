@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+
+//        int number = 5;
+//        System.out.println(number);
+//        number = 8;
+//                System.out.println(number);
+//                number = 9+4;
+//                System.out.println(number);
+//                number = 8/2;
+//                System.out.println(number);
+    }
+}
